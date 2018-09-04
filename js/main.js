@@ -123,7 +123,7 @@
 // p.appendChild(node);
 
 
-//EXO 9
+// EXO 9
 // var myArray = document.getElementsByClassName("images");
 // var array = [];
 //
